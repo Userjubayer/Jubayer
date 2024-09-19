@@ -44,14 +44,11 @@ react.includes("bal") ||
 react.includes("খাংকির পোলা") ||
 react.includes("খানকি মাকি") ||
 react.includes("খানকি মাগি") || 
-react.includes("SawYa") || 
+react.includes("বেশ্যা") || 
 react.includes("Sawya") || 
 react.includes("tor mare xudi") || react.includes("vuda") || react.includes("heda") || react.includes("bap")) {
 		var msg = {
-				body: "- ━━━━━━━━━━━━━━━━━━━━
-╭┈ ❒ 💬 | 𝐌𝐄𝐒𝐒𝐄𝐆𝐄:
-╰┈➤ এখানে গালাগালি করলে মুখ সেলাই কইরা দিমু..!!😾━━━━━━━━━━━━━━━━━━━━━━
-✿◕𝐁𝐎𝐓-𝐎𝐖𝐍𝐄𝐑: 𝐉𝐮𝐛𝐚𝐲𝐞𝐫 𝐚𝐡𝐦𝐞𝐝◕✿🌚!!😾"
+				body: "- এখানে গালাগালি করিস না😾 Owner:-𝐉𝐮𝐛𝐚𝐲𝐞𝐫 𝐚𝐡𝐦𝐞𝐝-!!"
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("🤬", event.messageID, (err) => {}, true)
@@ -59,4 +56,4 @@ react.includes("tor mare xudi") || react.includes("vuda") || react.includes("hed
 	}
 	module.exports.run = function({ api, event, client, __GLOBAL }) {
 
-  } 
+	}
