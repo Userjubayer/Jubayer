@@ -27,7 +27,7 @@ const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Manila").format("『D/MM/YYYY』 【hh:mm:ss】");
 var link = ["https://i.postimg.cc/yd8TtCQx/received-825512762409044.jpg", 
 
-            "https://i.postimg.cc/CMWQBdr4/received-844582530583225.jpg", 
+            "https://photos.app.goo.gl/WuMStFjnzK1DvY147", 
 
             "https://i.postimg.cc/cJ2Q9tn9/received-943134260313225.jpg",
 
