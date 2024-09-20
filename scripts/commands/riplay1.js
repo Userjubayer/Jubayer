@@ -48,7 +48,10 @@ react.includes("বেশ্যা") ||
 react.includes("Sawya") || 
 react.includes("tor mare xudi") || react.includes("vuda") || react.includes("heda") || react.includes("bap")) {
 		var msg = {
-				body: "- এখানে গালাগালি করিস না😾 Owner:-𝐉𝐮𝐛𝐚𝐲𝐞𝐫 𝐚𝐡𝐦𝐞𝐝-!!"
+				body: "- ╭────────|╰‣❒𝐌𝐄𝐒𝐒𝐄𝐆𝐄:
+╭────────|
+╰‣ 
+					এখানে গালাগালি করিস না😾 Owner:-𝐉𝐮𝐛𝐚𝐲𝐞𝐫 𝐚𝐡𝐦𝐞𝐝-!!"
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("🤬", event.messageID, (err) => {}, true)
